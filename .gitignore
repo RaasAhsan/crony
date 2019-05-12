@@ -1,0 +1,7 @@
+# java, scala
+target
+.idea
+.idea_modules
+
+# macOS
+.DS_Store
